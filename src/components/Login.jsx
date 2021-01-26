@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Modal, Button } from "react-bootstrap";
 import Axios from "axios";
 
 export default class Login extends Component {
